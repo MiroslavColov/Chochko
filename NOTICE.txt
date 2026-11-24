@@ -1,0 +1,3 @@
+This project is a development prototype for read-only diagnostic communication.
+The pump ECU command sequence is not validated on real hardware.
+Always confirm steering safety mechanically and electrically at a qualified workshop.
